@@ -11,7 +11,7 @@
 *Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
 ![Название скриншота 1](https://github.com/netolearning777/git_ELK-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_01_09_2026_13_52_50.png)
-
+---
 ### Задание 2. Kibana
 
 Установите и запустите Kibana.
